@@ -1,4 +1,4 @@
-## NOTE:
+## IMPORTANT NOTICE :
 
 The readme containing the documentaion about the backend can be found in the **Backend** folder.
 
